@@ -88,9 +88,4 @@ Triggers are implemented within the database to automate certain actions. These 
 
 The GUI is developed using Python Tkinter, providing an intuitive and user-friendly interface for managing ration distribution. The interface allows users to interact with the system efficiently and effectively.
 
-## Contributing
 
-Contributions are welcome! Please fork the repository and create a pull request with your changes. Ensure your code follows the project's coding standards and includes appropriate documentation.
-
-
-**Note**: Replace placeholders like `your_host`, `your_username`, `your_password`, `your_database`, and contact information with actual values relevant to your project setup.
